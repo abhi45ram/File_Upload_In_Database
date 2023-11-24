@@ -1,0 +1,9 @@
+There are two folders: one for the backend and the other for the client.
+
+To start the client application, navigate to the client directory by executing:
+cd client and npm start
+
+For the backend server, navigate to the backend directory using the command:
+cd backend and nodemon server.js
+
+Make sure to configure your MongoDB local server URL, typically mongodb://localhost:27017/
